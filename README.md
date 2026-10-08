@@ -10,6 +10,10 @@ This isn't a notes app. It's a database with vector search and an open protocol 
 
 > Open Brain was created by [Nate B. Jones](https://natesnewsletter.substack.com/). Follow the [Substack](https://natesnewsletter.substack.com/) for updates, discussion, and the companion prompt pack. Join the [Discord](https://discord.gg/Cgh9WJEkeG) for real-time help and community.
 
+### Base Layers
+
+This project uses [Hermes Agent](https://github.com/NousResearch/hermes-agent) from Nous Research as a base layer, licensed under the MIT License (see [LICENSE](LICENSE)).
+
 ## Getting Started
 
 Never built an Open Brain? Start here:
